@@ -1,0 +1,20 @@
+{
+  "name": "pol-bot",
+  "version": "1.0.0",
+  "description": "A twitter bot to read through streams and reply a static message.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "politics"
+  ],
+  "author": "amit.prakash.singh <amit.prakash.singh@accenture.com>",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
